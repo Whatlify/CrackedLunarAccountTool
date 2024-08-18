@@ -19,6 +19,7 @@ There's also another method to fix it which may not work for long which is switc
 
 ### Update (18/8/24)
 Lunar Client has either disabled switching branches or they removed the "master-old-auth" branch entirely so there's no fix currently.
+
 ![Image](/media/ss4.png)
 
 ## Getting Started
